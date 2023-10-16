@@ -1,3 +1,28 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .w-gradient {
+    @apply bg-gradient-to-tl from-violet-500 via-rose-400 to-orange-300;
+    @apply transition-opacity duration-300 opacity-0 group-hover:opacity-50 dark:group-hover:opacity-25;
+    background-size: 300%;
+    -webkit-animation: AnimatedGrad 6s ease infinite alternate;
+    -moz-animation: AnimatedGrad 6s ease infinite alternate;
+    animation: AnimatedGrad 6s ease infinite alternate;
+  }
+}
+
+@keyframes AnimatedGrad {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}

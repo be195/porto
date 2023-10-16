@@ -1,13 +1,14 @@
 # b195
-I'm 17 and I create various applications, which can be considered either useful or useless.
+18 y.o. self-learning developer, bedroom-producer and artist.
 
-I am mostly a web developer but I can work on standalone applications if I wanted to.
+::grid
+:project{name="Personal websites" image="wico.lol.png" link="/projects/personal"}
+:project{name="foxtrot" image="foxtrot-16-9.png" link="/projects/foxtrot"}
+:project{name="Garry's Mod related works" image="televator.jpg" link="/projects/gmod"}
+:project{name="nahuy" image="televator.jpg" link="/projects/nahuy"}
+:project{name="Miscellaneous" image="e621.blue.png" link="/projects/misc"}
+::
 
-## Projects
-- [Personal websites](/projects/personal)
-- [foxtrot](/projects/foxtrot)
-- [Garry's Mod related works](/projects/gmod)
-- [Miscellaneous](/projects/misc)
 ---
 
-Find me on [GitHub](https://github.com/be195) or on [the fediverse](https://wetdry.world/b195).
+ihbee \[at] proton \[dot] me
