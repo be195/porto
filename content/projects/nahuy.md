@@ -1,3 +1,7 @@
+---
+#image: 'piaempi.gay.png'
+---
+
 # nahuy
 nahuy is an internal project that only our friends are allowed to use.
 Despite its name having a Russian swear word in it, its primary use is

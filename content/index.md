@@ -1,14 +1,14 @@
 # b195
-18 y.o. self-learning developer, bedroom-producer and artist.
+18 y.o. self-taught developer. I know English and Russian languages. I
+sometimes write stuff for fun in JavaScript (or TypeScript,) Lua, Go,
+HTML (and CSS) languages.
 
-::grid
-:project{name="Personal websites" image="wico.lol.png" link="/projects/personal"}
-:project{name="foxtrot" image="foxtrot-16-9.png" link="/projects/foxtrot"}
-:project{name="Garry's Mod related works" image="televator.jpg" link="/projects/gmod"}
-:project{name="nahuy" image="televator.jpg" link="/projects/nahuy"}
-:project{name="Miscellaneous" image="e621.blue.png" link="/projects/misc"}
-::
+You can see the projects I have worked on below.
+
+:projectsrenderer
 
 ---
 
-ihbee \[at] proton \[dot] me
+You can reach me at ihbee \[at] proton \[dot] me.
+
+![HIREME](/images/hireme.gif)

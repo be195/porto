@@ -1,10 +1,21 @@
-# Garry's Mod servers
+---
+thumb: 'televator.jpg'
+---
+
+# Garry's Mod works
+::alert{type="warning"}
+Despite the fact that some of the code may not be clean or some of the
+commit messages may not be descriptive, this was one of my starting
+points as a developer, and I have been improving ever since.
+::
 
 ## Meta Construct
 I joined Meta Construct's development team in 2018.
 
 ### Design work
 ![televator](/images/televator.jpg)
+:vuevideo{src="/videos/servcrash.webm"}
+:vuevideo{src="/videos/loadinfo.webm"}
 
 todo: insert more photos
 
@@ -22,12 +33,7 @@ source code here: https://github.com/Metastruct/artboard-api/.
 ![artboard](/images/artboard.jpg)
 
 ### Metaluvit
-::alert{type="warning"}
-Despite the fact that some of the code may not be clean, this was one of
-my starting points as a developer, and I have been improving ever since.
-::
-
-Metaluvit was an application that utilized a Discord bot and an IRC
+Metaluvit was an application that utilized Discord's API and an IRC
 connection to relay chat communication from in-game and said platforms. It
 is open source and you can view the source code here:
 https://github.com/Metastruct/metaluvit/tree/master-preneutering.
@@ -61,9 +67,5 @@ to set something up for CrossChat and update it to make it work again.
 https://www.gmodstore.com/market/view/crosschat-communicate-with-players-on-another-server
 
 ## Re-Dream
-::alert{type="warning"}
-Despite the fact that some of the code may not be clean, this was one of
-my starting points as a developer, and I have been improving ever since.
-::
 Re-Dream was an alternative to Meta Construct. I was involved in its
 development from 2017. It is open source: https://github.com/Re-Dream/.

@@ -1,3 +1,7 @@
+---
+thumb: 'foxtrot.png'
+---
+
 # foxtrot
 foxtrot started as a personal alternative to other Discord applications that
 utilize "bots" to play audio in the voice channels. It was originally called
@@ -5,7 +9,7 @@ utilize "bots" to play audio in the voice channels. It was originally called
 free for everyone, hence it's open source, too.
 
 - Website: https://foxtrot.litterbin.dev/
-- GitHub: https://github.com/LitterbinCollective/foxtrot.ts
+- Source code: https://github.com/LitterbinCollective/foxtrot.ts
 
 ## Complexity
 Reasons why this project is complex.

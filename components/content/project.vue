@@ -1,7 +1,7 @@
 <script setup lang="ts">
 const props = defineProps([ 'name', 'image', 'link' ]);
 
-const img = computed(() => props.image ? '/images/' + props.image : '/images/abstract.png')
+const img = computed(() => props.image ? '/images/thumbs/' + props.image : '/images/thumbs/personal.png')
 </script>
 
 <template>

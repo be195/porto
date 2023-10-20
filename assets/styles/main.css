@@ -11,6 +11,10 @@
     -moz-animation: AnimatedGrad 6s ease infinite alternate;
     animation: AnimatedGrad 6s ease infinite alternate;
   }
+
+  .main-content {
+    grid-template-columns: 3fr 1fr;
+  }
 }
 
 @keyframes AnimatedGrad {

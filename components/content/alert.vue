@@ -7,11 +7,17 @@ const components = {
   warning: resolveComponent('exclamationtriangleicon'),
   info: resolveComponent('infocircledicon')
 };
+
+const component = computed(
+  () =>
+    props.type && (props.type in components) &&
+    components[props.type as keyof typeof components]
+);
 </script>
 
 <template>
-  <div :class="'py-2 px-4 gap-4 flex flex-row border rounded-lg items-center ' + props.type">
-    <component v-if="props.type" :is="components[props.type]" class="h-5 w-auto flex-shrink-0"></component>
+  <div :class="'py-2 px-4 gap-4 flex flex-row border rounded-2xl items-center ' + props.type">
+    <component v-if="props.type" :is="component" class="h-5 w-auto flex-shrink-0"></component>
     <ContentSlot :use="$slots.default" unwrap="p" />
   </div>
 </template>
