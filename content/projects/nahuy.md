@@ -1,5 +1,5 @@
 ---
-#image: 'piaempi.gay.png'
+thumb: 'nahuy.png'
 ---
 
 # nahuy
@@ -12,3 +12,8 @@ designs were not as advanced: they were mostly very basic with both its design
 and the way CSS was used. (Not to mention that the main developer
 themselves said that it's bad.)
 
+I used Vue.js, Nuxt.js, Sass and TypeScript to create this.
+
+![panel overview](/images/nahpanel.png)
+![panel stream settings](/images/nahpanelstream.png)
+![watch page](/images/nahwatchshowcase.gif)

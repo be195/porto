@@ -9,7 +9,7 @@ Albeit being kind of personal, this portfolio does not count as a "personal webs
 
 These websites were not meant to be "professional" in any way, neither were they
 used as a "business card site", neither had they any use. They just mostly showcased
-visual aids.
+visual aids and random things I found funny.
 
 The current one in particular has 3D graphics (made with [three.js](https://threejs.org)).
 I made the monitor model using [MagicaVoxel](https://ephtracy.github.io).

@@ -6,18 +6,18 @@ thumb: 'televator.jpg'
 ::alert{type="warning"}
 Despite the fact that some of the code may not be clean or some of the
 commit messages may not be descriptive, this was one of my starting
-points as a developer, and I have been improving ever since.
+points as a developer, and I have been improving ever since. Despite this,
+it is still worth mentioning.
 ::
 
 ## Meta Construct
 I joined Meta Construct's development team in 2018.
 
 ### Design work
+(There is probably more work that is not showcased here.)
 ![televator](/images/televator.jpg)
 :vuevideo{src="/videos/servcrash.webm"}
 :vuevideo{src="/videos/loadinfo.webm"}
-
-todo: insert more photos
 
 ### Artboard
 I have made "Artboard" for Meta Construct. It allows players to draw
