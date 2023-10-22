@@ -61,7 +61,7 @@ the clients for it. This way it is:
 - more private;
 - less hassle for customers, who are going to use this addon even if the
 support for CrossChat was dropped;
-- less hassle for us, since in case of server migration we wouldn't have
+- less hassle for us, since in case of server migration we would not have
 to set something up for CrossChat and update it to make it work again.
 
 https://www.gmodstore.com/market/view/crosschat-communicate-with-players-on-another-server
