@@ -13,13 +13,6 @@ Live preview: https://litterbin.dev/
 
 :vuevideo{src="/videos/kaomoji.mp4"}
 
-## eng.ts
-An HTML5 canvas rendering engine/helper. It was supposed to be for a revision
-on some project I worked on previously, but I "gave up" and uploaded it on
-GitHub.
-
-https://github.com/be195/eng.ts
-
 ## filerecv-game
 An RPG-style game, that isn't finished and will never be.
 
@@ -29,7 +22,7 @@ DVD mode here may be a bit buggy. Whoops...
 
 Live preview: https://e621.blue/
 
-![e621.blue](/images/e621.blue.png)
+![image showcase of e621.blue](/images/e621.blue.png)
 
 ### piaempi.gay
 ::alert{type="info"}
@@ -40,4 +33,4 @@ I wanted the character on the center to be more "alive" rather than being just
 a static image (kind of what [litterbin.dev](https://litterbin.dev) has.) Hence
 I made it interactable when I did not need to.
 
-![piaempi.gay](/images/piaempi.gay.png)
+![image showcase of piaempi.gay](/images/piaempi.gay.png)

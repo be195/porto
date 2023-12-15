@@ -20,11 +20,11 @@ The following website is CPU or GPU expensive and can drain your device's batter
 
 Demo can be seen here: https://wico.lol/
 
-![wico.lol](/images/wico.lol.png)
+![image showcase of wico.lol](/images/wico.lol.png)
 
 The old page utilized vector graphics and DOM elements, and it was much more simple and
 performant.
 
 The old version can be seen here: https://wico.lol/old/
 
-![old wico.lol](/images/old_wico.lol.png)
+![image showcase of an old version of wico.lol](/images/old_wico.lol.png)

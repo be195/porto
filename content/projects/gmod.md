@@ -15,7 +15,7 @@ I joined Meta Construct's development team in 2018.
 
 ### Design work
 (There is probably more work that is not showcased here.)
-![televator](/images/televator.jpg)
+![elevator with a screen](/images/televator.jpg)
 :vuevideo{src="/videos/servcrash.webm"}
 :vuevideo{src="/videos/loadinfo.webm"}
 
@@ -30,7 +30,7 @@ The API was made with Node.JS and initially was in plain JavaScript. Then I
 rewrote it in TypeScript. Currently it is open-source and you can view the
 source code here: https://github.com/Metastruct/artboard-api/.
 
-![artboard](/images/artboard.jpg)
+![artboard showcase](/images/artboard.jpg)
 
 ### Metaluvit
 Metaluvit was an application that utilized Discord's API and an IRC

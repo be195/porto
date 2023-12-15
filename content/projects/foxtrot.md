@@ -34,4 +34,4 @@ time). I then rebranded it to "catvox" in 2022, but, because of biased thoughts
 and personal favoring of the new name, I rebranded it again in the same year to
 "foxtrot" and started using a fox as the icon.
 :vuevideo{src="/videos/haikuproj..mp4"}
-![foxtrot](/images/abstract.png)
+![abstract design showing foxtrot in the middle](/images/abstract.png)
