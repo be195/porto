@@ -22,7 +22,7 @@ checkAndSwitch(unref(router.currentRoute));
       ">
         <div class="
           grid
-          gap-4
+          gap-8
           main-content
           max-md:flex
           max-md:flex-col-reverse

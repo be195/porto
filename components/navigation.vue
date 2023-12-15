@@ -40,7 +40,7 @@ onBeforeUnmount(() => {
     text-lg
     sticky
     max-md:static
-    top-20
+    top-24
     col-auto
     h-fit
     p-8
