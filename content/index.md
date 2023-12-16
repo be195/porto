@@ -8,5 +8,4 @@ You can see the projects I have worked on below.
 
 ---
 
-[Donate](https://boosty.to/b195/donate) · [GitHub](https://github.com/be195) ·
-[..](https://wico.lol)
+[Donate](https://boosty.to/b195/donate) · [GitHub](https://github.com/be195) · [..](https://wico.lol)
