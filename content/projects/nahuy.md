@@ -16,4 +16,5 @@ I used Vue.js, Nuxt.js, Sass and TypeScript to create this.
 
 ![panel overview](/images/nahpanel.png)
 ![panel stream settings](/images/nahpanelstream.png)
+![panel user settings](/images/nahpaneluser.png)
 ![watch page](/images/nahwatchshowcase.gif)
