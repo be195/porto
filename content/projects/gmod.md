@@ -14,7 +14,10 @@ it is still worth mentioning.
 I joined Meta Construct's development team in 2018.
 
 ### Design work
-(There is probably more work that is not showcased here.)
+::alert{type="info"}
+There is probably more work that is not showcased here.
+::
+
 ![elevator with a screen](/images/televator.jpg)
 :vuevideo{src="/videos/servcrash.webm"}
 :vuevideo{src="/videos/loadinfo.webm"}
@@ -53,11 +56,11 @@ players ability to see what the other players in the other servers are
 talking.
 
 Although the support was dropped because we do not work on it anymore, I
-am sure that it still can work (with or without modifications.) That is
-because, instead of handling the communication ourselves, like some of
-the other addons with the same idea, we decided that it would be the best
-to use the luasocket library and implement both the server protocol and
-the clients for it. This way it is:
+am sure that it still can work (with or without modifications). That is
+because, instead of handling the communication ourselves through our own
+server(s), like some of the other addons with the same idea, we decided that
+it would be the best to use the luasocket library and implement both the
+server protocol and the clients for it. This way it is:
 - more private;
 - less hassle for customers, who are going to use this addon even if the
 support for CrossChat was dropped;
@@ -68,4 +71,4 @@ https://www.gmodstore.com/market/view/crosschat-communicate-with-players-on-anot
 
 ## Re-Dream
 Re-Dream was an alternative to Meta Construct. I was involved in its
-development from 2017. It is open source: https://github.com/Re-Dream/.
+development from 2017. It is mostly open source: https://github.com/Re-Dream/.

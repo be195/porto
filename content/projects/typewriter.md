@@ -26,7 +26,8 @@ I began working on it in 2022 and is still in development. I wish
 not to disclose any close details.
 
 I am drawing assets using Aseprite, designing sound effects and
-making music using FL Studio and/or Tenacity.
+making music using FL Studio and/or Tenacity (which is a fork of
+Audacity).
 
 ### Engine
 I decided to create another helper/engine, which would utilize
