@@ -28,11 +28,14 @@ checkAndSwitch(unref(router.currentRoute));
       ">
         <div class="
           prose
+          prose-hr:border-zinc-900
           lg:prose-xl
           dark:prose-invert
           prose-zinc
           prose-rose
           prose-img:rounded-2xl
+          prose-img:border
+          prose-img:border-zinc-900
           prose-headings:text-rose-600
           dark:prose-headings:text-rose-500
           col-auto
